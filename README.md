@@ -7,4 +7,4 @@
 ## Favorite shows
 - Silicon Valley
 - Grey's Anatomy
-- Friends
+- The Office
