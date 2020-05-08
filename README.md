@@ -3,3 +3,7 @@
 - sushi
 - cheeseburgers
 - pizza
+
+## Favorite shows
+- Silicon Valley
+- Grey's Anatomy
